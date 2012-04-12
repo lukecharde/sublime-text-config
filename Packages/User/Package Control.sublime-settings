@@ -3,7 +3,11 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Git",
 		"HTML Export",
-		"Package Control"
+		"Markdown Preview",
+		"Package Control",
+		"StringEncode",
+		"SublimeCodeIntel"
 	]
 }
